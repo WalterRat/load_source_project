@@ -10,7 +10,7 @@
 
 ## Предустановка
 
-К сожалению, гит через lfs не может загрузить 1 файл, поэтому скачайте его по этой [ссылке](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2019.csv) 
+К сожалению, гит через lfs не может загрузить 1 файл, поэтому скачайте его по этой [ссылке](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2019.csv) и переместите в папку datasets
 
 ## Использование
 
